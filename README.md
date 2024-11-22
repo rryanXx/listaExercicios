@@ -1,0 +1,2 @@
+# listaExercicios
+ lista foreach
