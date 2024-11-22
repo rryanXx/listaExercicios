@@ -1,0 +1,7 @@
+C:\Users\ryan.hsilva6\OneDrive - SENAC - SP\c#\condicoes\foreach\foreach\obj\Debug\foreach.csproj.AssemblyReference.cache
+C:\Users\ryan.hsilva6\OneDrive - SENAC - SP\c#\condicoes\foreach\foreach\obj\Debug\foreach.csproj.CoreCompileInputs.cache
+C:\Users\ryan.hsilva6\OneDrive - SENAC - SP\c#\condicoes\foreach\foreach\bin\Debug\@foreach.exe.config
+C:\Users\ryan.hsilva6\OneDrive - SENAC - SP\c#\condicoes\foreach\foreach\bin\Debug\@foreach.exe
+C:\Users\ryan.hsilva6\OneDrive - SENAC - SP\c#\condicoes\foreach\foreach\bin\Debug\@foreach.pdb
+C:\Users\ryan.hsilva6\OneDrive - SENAC - SP\c#\condicoes\foreach\foreach\obj\Debug\@foreach.exe
+C:\Users\ryan.hsilva6\OneDrive - SENAC - SP\c#\condicoes\foreach\foreach\obj\Debug\@foreach.pdb

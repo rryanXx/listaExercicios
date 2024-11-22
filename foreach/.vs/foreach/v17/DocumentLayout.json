@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ryan.hsilva6\\OneDrive - SENAC - SP\\c#\\condicoes\\foreach\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8A6C5911-F129-4E33-BEEA-3D3F5C56A56C}|foreach\\foreach.csproj|c:\\users\\ryan.hsilva6\\onedrive - senac - sp\\c#\\condicoes\\foreach\\foreach\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A6C5911-F129-4E33-BEEA-3D3F5C56A56C}|foreach\\foreach.csproj|solutionrelative:foreach\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ryan.hsilva6\\OneDrive - SENAC - SP\\c#\\condicoes\\foreach\\foreach\\Program.cs",
+              "RelativeDocumentMoniker": "foreach\\Program.cs",
+              "ToolTip": "C:\\Users\\ryan.hsilva6\\OneDrive - SENAC - SP\\c#\\condicoes\\foreach\\foreach\\Program.cs*",
+              "RelativeToolTip": "foreach\\Program.cs*",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T22:10:45.722Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
